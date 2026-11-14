@@ -1,7 +1,7 @@
 task.spawn(function()
 
 local Library = loadstring(game:HttpGet(
-    "https://raw.githubusercontent.com/Miwtf-lol/Sailor-piece-mi.wtf/refs/heads/main/Kittylol_UI_FIXED.txt"
+    "https://raw.githubusercontent.com/bestvisualman/bb/refs/heads/main/Hubs/KittyLOL.lua"
 ))()
 
 local UI = Library._new()
